@@ -5,7 +5,7 @@
 
 A Graduate student majoring in the field of computer science. My area of concentration mainly revolves around making AI more usable to address real-world problems and an enthusiastic learner too.
 
-I'm currently learning and developing projects in machine learning and deep learning in areas like Predictive analytics and Computer vision.
+I'm currently learning Geo Data Science, Privacy & Security, and Efficient Algorithms as part of my MSc. in Advanced Computer Science at the University of Liverpool.
 
 ## Reach me @
  
