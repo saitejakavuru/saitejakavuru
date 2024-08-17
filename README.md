@@ -14,4 +14,4 @@ I'm currently learning Geo Data Science, Privacy & Security, and Efficient Algor
 
 @<a href="https://github.com/saitejakavuru">Github</a>
 
-@<a href="https://www.linkedin.com/in/sai-teja-kavuru-2a4471135">LinkedIn</a> 
+@<a href="https://www.linkedin.com/in/saitejakavuru">LinkedIn</a> 
