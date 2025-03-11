@@ -22,4 +22,4 @@ I'm **Sai Teja**, a Security Engineer from India 🇮🇳, currently based in th
 
 > "A product so good, people tell their friends about it."
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-pun&layout=compact&hide=html&langs_count=6" alt="prakash-pun" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejakavuru&layout=compact&hide=html&langs_count=6" alt="saitejakavuru" /></p>
