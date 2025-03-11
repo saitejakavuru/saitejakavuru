@@ -1,21 +1,25 @@
-# Hi there, I'm Saiteja Kavuru 👋
+## Hi there! <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px" height="25px"> :computer: `Security engineer` 🌏 
 
-## About Me
-- 🌱 I’m currently learning cloud security 
-- 💬 Ask me about tech 
-- 📫 How to reach me: Linkedin
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Email predates world wide web
 
-## GitHub Stats
+I'm **Sai Teja**, a Security Engineer from India 🇮🇳, currently based in the UK 🇬🇧. I **love** building cool things and geeking out over the latest tech trends.
 
-![Saiteja Kavuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitejakavuru&show_icons=true&theme=radical)
+### What I Do 🚀
+- 🛠️ Love **Building** Stuffs
+- 🤖 Currently diving into the fascinating world of [**Cloud**], eager to learn and make an impact in this fast-paced field.
 
-## Top Languages
+### Hobbies 🎨
+- 🎮 Exploring the latest tech trends and tinkering with new tools.
+- 🚴‍♂️ Exploring new places, Walking and staying active in the great outdoors.
+- 📚 Visiting country towns, reading books, and diving into podcasts.
+- 🎶 Music
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitejakavuru&layout=compact&theme=radical)
+### Fun Facts:
+- ☕ Brainstorms over coffee with fellow devs and creators? Always down for that!
 
-## Let's Connect
+📫 **Let's connect and create something amazing**:
 
-- [LinkedIn](https://www.linkedin.com/in/saitejakavuru/)
-- [Twitter](https://twitter.com/saitejakavuru)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saitejakavuru/)
+
+> "A product so good, people tell their friends about it."
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-pun&layout=compact&hide=html&langs_count=6" alt="prakash-pun" /></p>
