@@ -1,9 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Saiteja Kavuru 👋
 
-<!--
-**saitejakavuru/saitejakavuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+
+![Saiteja Kavuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitejakavuru&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saitejakavuru&layout=compact&theme=radical)
+
+## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/saitejakavuru/)
+- [Twitter](https://twitter.com/saitejakavuru)
