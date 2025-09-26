@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px" height="25px"> :computer: `Security engineer` 🌏 
+## Hi there! <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px" height="25px"> :computer:  🌏 
 
 
 I'm **Sai Teja**, a Security Engineer from India 🇮🇳, currently based in the UK 🇬🇧. I **love** building cool things and geeking out over the latest tech trends.
