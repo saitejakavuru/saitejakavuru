@@ -19,6 +19,6 @@ I'm **Sai Teja**, a Security analyst from India 🇮🇳, currently based in the
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/saitejakavuru/)
 
-> "A product so good, people tell their friends about it."
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejakavuru&layout=compact&hide=html&langs_count=6" alt="saitejakavuru" /></p>
