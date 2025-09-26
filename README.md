@@ -4,7 +4,6 @@
 I'm **Sai Teja**, a Security analyst from India 🇮🇳, currently based in the UK 🇬🇧. I **love** building cool things and geeking out over the latest tech trends.
 
 ### What I Do 🚀
-- 🛠️ Love **Building** Stuffs
 - 🤖 Currently diving into the fascinating world of [**Cloud**], eager to learn and make an impact in this fast-paced field.
 
 ### Hobbies 🎨
