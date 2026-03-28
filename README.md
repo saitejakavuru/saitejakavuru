@@ -1,10 +1,10 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/hjemmel/hjemmel/master/images/wave.gif" width="25px" height="25px"> :computer:  🌏 
 
 
-I'm **Sai Teja**, a Security analyst from India 🇮🇳, currently based in the UK 🇬🇧. I **love** building cool things and geeking out over the latest tech trends.
+I'm **Sai Teja**, an Analyst from India 🇮🇳, currently based in the UK 🇬🇧. I **love** building cool things and geeking out over the latest tech trends.
 
 ### What I Do 🚀
-- 🤖 Currently diving into the fascinating world of [**Cloud**], eager to learn and make an impact in this fast-paced field.
+- 🤖 Currently diving into the fascinating world of [**Cloud& DevOps**], eager to learn and make an impact in this fast-paced field.
 
 ### Hobbies 🎨
 - 🎮 Exploring the latest tech trends and tinkering with new tools.
